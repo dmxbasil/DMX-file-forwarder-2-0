@@ -1,5 +1,6 @@
 {
-  "name": "Auto-Forward-Bot",
+  "name": "file-forwarder-2-0",
+  "photo" "https://telegra.ph/file/cadf52a36f89410616614.jpg"
   "description": "Telegram's Best Smart Plugin File Forward Bot",
   "keywords": [
     "telegram",
@@ -8,7 +9,7 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/subinps/Forward_2.0",
+  "repository": "https://github.com/dmxbasil/dmx-file-forwarder-2-0",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
